@@ -25,6 +25,7 @@ input,button{
   border-radius: 20px;
   padding: 0.6rem;
   outline: 0;
+  width:90%
 }
 .err{
   color: red;
@@ -76,6 +77,7 @@ footer p{
   .bf button{
     width: 200px;
   }
+
   /* .bf input{
     flex-grow:5 ;
   }
