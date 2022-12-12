@@ -5,7 +5,7 @@ function App() {
     <div className="flex">
       <div>hi</div>
       <h1>my project</h1>
-      <Comp val={"beauty"} />
+      <Comp val={"beauty and fantastic"} />
     </div>
   );
 }
